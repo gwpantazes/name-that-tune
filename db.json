@@ -1,0 +1,95 @@
+{
+    "youtube_videos": [
+        {
+            "id": "a568f44b-ecca-4195-9b7e-421139e40074",
+            "videoIds": [
+                "DjnwqElGAy4",
+                "_N_Uqd7JBcM",
+                "73XLX1Br9po",
+                "NvontyBNC44",
+                "flpXhIJk6N4"
+            ],
+            "tags": [
+                "anime",
+                "opening"
+            ],
+            "track": {
+                "title": "JoJo ~Sono Chi no Sadame~ ジョジョ ～その血の運命さだめ～ JoJo ~Destiny of That Blood~",
+                "artist": "Hiroaki \"TOMMY\" Tominaga",
+                "album_single": "JoJo no Kimyō na Bōken OP Single - JoJo ~Sono Chi no Sadame~"
+            }, 
+            "show": {
+                "title": "JoJo's Bizarre Adventure",
+                "season": "Part 1 Phantom Blood"
+            }
+        },
+        {
+            "id": "720b0f57-acb2-4514-9c1d-e3e418d81572",
+            "videoIds": [
+                "KnmH7qQ0AVM",
+                "hmpJqJLsR48",
+                "2rePle-gU3Q",
+                "OpUbnLjexTc",
+                "iXbhjOqFdJQ"
+            ],
+            "tags": [
+                "anime",
+                "opening"
+            ],
+            "track": {
+                "title": "Bloody Stream",
+                "artist": "Coda",
+                "album_single": "JoJo no Kimyō na Bōken OP Single - BLOODY STREAM~"
+            },
+            "show": {
+                "title": "JoJo's Bizarre Adventure",
+                "season": "Part 2 Battle Tendency"
+            }
+        },
+        {
+            "id": "e3c0697a-c7f6-4439-85ae-d80fdaf6a1f4",
+            "videoIds": [
+                "7BMhBXowNgA",
+                "oAzNQKbncxA",
+                "ZMBKz0Qsgmk",
+                "Txd8skamLlk",
+                "WB9c5avV8uU"
+            ],
+            "tags": [
+                "anime",
+                "opening"
+            ],
+            "track": {
+                "title": "STAND PROUD",
+                "artist": "Jin Hashimoto",
+                "album_single": "JoJo no Kimyou na Bouken OP Single - STAND PROUD"
+            },
+            "show": {
+                "title":"JoJo's Bizarre Adventure",
+                "season": "Part 3 Stardust Crusaders"
+            }
+        },
+        {
+            "id": "d34db6e6-da6e-478a-a130-871800f436b4",
+            "videoIds": [
+                "PANGjAyF4CQ",
+                "OchozLuSHM0",
+                "r7gBtKFhrzs",
+                "KuBLGYiZE3s"
+            ],
+            "tags": [
+                "anime",
+                "opening"
+            ],
+            "track": {
+                "title": "Fighting Gold",
+                "artist": "Coda",
+                "album_single": "JoJo's Bizarre Adventure OP Single Fighting Gold"
+            },
+            "show": {
+                "title":"JoJo's Bizarre Adventure",
+                "season": "Part 5 Golden Wind (Vento Aureo)"
+            }
+        }
+    ]
+}
